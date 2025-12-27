@@ -3,8 +3,6 @@
 ## 📖 Introduction
 This project focuses on the design and simulation of a **High-Performance 4-Bit Multiplier** utilizing the **Urdhva Tiryagbhyam (UT) Algorithm** combined with **Domino Logic** techniques. The design aims to optimize calculation speed and compares the performance against traditional Static CMOS logic.
 
-This research was conducted as part of the **VLSI Circuits Design** course at **Ho Chi Minh City University of Technology and Education (HCMUTE)**.
-
 ## 🚀 Key Features
 -   **Algorithm:** Urdhva Tiryagbhyam (Vedic Mathematics) for "Vertically and Crosswise" multiplication.
 -   **Logic Family:**
